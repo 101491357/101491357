@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nana Adwoa Affum
 - 👀 I’m interested in Analytics
-- 🌱 I’m currently learning sql
+- 🌱 SAS and PYTHON certified
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me by phone and email@nanaadwoaaffum@gmail.com
 
